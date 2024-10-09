@@ -1,5 +1,5 @@
-## Hi there 👋
-sobre projetos privados entrar em contato...
+## Hi there 👋 sobre projetos privados entrar em contato...
+
 
 <!--
 **BSFernando/BSFernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
