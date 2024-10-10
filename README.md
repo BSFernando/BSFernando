@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=BSFernando&theme=algolia&show_icons=true)](https://github.com/BSFernando)
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=BSFernando&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/BSFernando)
 
 ## Hi there 👋 sobre projetos privados entrar em contato...
 
