@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-
 ### Hi there 👋 sobre projetos privados entrar em contato...
 
 * [Projeto cat API](https://github.com/BSFernando/Portfolio/tree/main/projeto_api_cat) 
