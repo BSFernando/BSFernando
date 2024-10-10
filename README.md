@@ -1,5 +1,3 @@
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=BSFernando&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/BSFernando)
-
 ## Hi there 👋 sobre projetos privados entrar em contato...
 
 * [Projeto cat API](https://github.com/BSFernando/Portfolio/tree/main/projeto_api_cat) 
