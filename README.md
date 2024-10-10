@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=BSFernando&theme=algolia&show_icons=true)](https://github.com/BSFernando)
+
 ## Hi there 👋 sobre projetos privados entrar em contato...
 
 * [Projeto cat API](https://github.com/BSFernando/Portfolio/tree/main/projeto_api_cat) 
