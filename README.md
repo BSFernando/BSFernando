@@ -1,5 +1,5 @@
 ### 👋 Sobre projetos privados entrar em contato...
-#### Projeto
+#### Projetos
 * [Cat API](https://github.com/BSFernando/Portfolio/tree/main/projeto_api_cat) 
 * [Lamna nasus](https://github.com/BSFernando/Portfolio/tree/main/projeto_lamna_nasus)
 * [Automação mapas](https://github.com/BSFernando/Portfolio/tree/main/projeto_mapa)
