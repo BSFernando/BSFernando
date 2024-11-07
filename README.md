@@ -3,7 +3,6 @@
 * 📫 bscode.solucoes@gmail.com / bs_fernando@hotmail.com 
 
 ### :computer: Projetos
-* [BOT WHATSAPP](https://github.com/BSFernando/Portfolio/tree/main/projeto_bot_whatsapp) 
 * [Cat API](https://github.com/BSFernando/Portfolio/tree/main/projeto_api_cat) 
 * [Lamna nasus](https://github.com/BSFernando/Portfolio/tree/main/projeto_lamna_nasus)
 * [Automação mapas](https://github.com/BSFernando/Portfolio/tree/main/projeto_mapa)
