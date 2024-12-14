@@ -1,6 +1,6 @@
 ### 👋 Sobre projetos privados entrar em contato:
-* 📱 (51) 99985-1740 / (51) 99956-1995
-* 📫 bscode.solucoes@gmail.com / bs_fernando@hotmail.com 
+* 📱  (51) 99956-1995 / (51) 99985-1740
+* 📫 bscode.solucoes@gmail.com
 
 ### :computer: Projetos
 * [Site FemMap](https://map-site-iota.vercel.app/)
