@@ -1,6 +1,6 @@
 ### 👋 Sobre projetos privados entrar em contato:
-* 📱  (51) 99956-1995 / (51) 99985-1740
-* 📫 bscode.solucoes@gmail.com
+* 📱  (51) 99985-1740
+* 📫 bs_fernando@hotmail.com
 
 ### :computer: Projetos
 * [Portfólio vercel](https://portfolio-bscode.vercel.app/)
