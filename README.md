@@ -3,6 +3,7 @@
 * 📫 bs_fernando@hotmail.com
 
 ### :computer: Projetos
+* [Weather app](https://github.com/BSFernando/weather-app)
 * [Portfólio vercel](https://portfolio-bscode.vercel.app/)
 * [Site FemMap](https://site-femmap.vercel.app/)
 * [Automação mapas](https://github.com/BSFernando/automa-o-qgis)
