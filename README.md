@@ -7,7 +7,6 @@
 * [Portfólio vercel](https://portfolio-bscode.vercel.app/)
 * [Site FemMap](https://site-femmap.vercel.app/)
 * [Automação mapas](https://github.com/BSFernando/automa-o-qgis)
-* [Deslizamento de terra U-NET](https://github.com/BSFernando/unet-deslizamento)
 * [Cat API](https://github.com/BSFernando/Portfolio/tree/main/projeto_api_cat) 
 * [Lamna nasus](https://github.com/BSFernando/Portfolio/tree/main/projeto_lamna_nasus)
 
